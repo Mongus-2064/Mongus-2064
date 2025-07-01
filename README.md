@@ -1,27 +1,46 @@
-# Hi, I'm Nabin Khatri 👋
+# Hey, I'm Nabin Khatri 👋
 
-## About Me
-I'm a passionate full-stack developer specializing in the MERN stack. I enjoy building scalable web applications and solving real-world problems through clean and efficient code. Constantly learning and improving every day.
-
-## Skills
-- **Languages & Frameworks:** JavaScript (ES6+), React, Node.js, Express
-- **Databases:** MongoDB, Mongoose
-- **Styling:** Tailwind CSS, CSS3, HTML5
-- **Tools & Technologies:** Git, GitHub, REST APIs, JWT Authentication, Bcrypt
-- **Other:** Responsive Design, API Integration, Deployment
-
-## Projects
-- **Instagram Clone:** A full-stack social media app with user authentication, posts, likes, comments, and followers.
-- **Hotel Booking System:** Complete reservation platform with frontend and backend integration.
-- **Watch Store:** E-commerce site featuring product listings, cart system, and admin dashboard.
-
-## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/your-github-username)
+### Full-stack MERN Developer | Problem Solver | Lifelong Learner
 
 ---
 
-### GitHub Stats
+## 🚀 About Me
+Passionate about building scalable and efficient web applications using the MERN stack. I love clean code, continuous learning, and turning ideas into reality.
+
+---
+
+## 💻 Skills
+
+<p>
+  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
+  <img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
+  <img alt="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" />
+  <img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" />
+  <img alt="Tailwind CSS" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.6d1df5d9.svg" width="40" height="40" />
+  <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
+  <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
+  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
+  <img alt="JWT" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jsonwebtoken/jsonwebtoken-original.svg" width="40" height="40" />
+  <img alt="Bcrypt" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" />
+</p>
+
+---
+
+## 📂 Projects
+
+- **Hotel Booking System**  
+  Complete booking platform with frontend-backend integration and responsive design.
+
+- **Watch Store**  
+  E-commerce site featuring product listings, cart management, and admin dashboard.
+
+---
+
+## 📈 GitHub Stats
+
 ![Nabin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
+---
+
+*“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
