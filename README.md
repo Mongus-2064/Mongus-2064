@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Nabin Khatri 👋
 
-<!--
-**Mongus-2064/Mongus-2064** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a passionate full-stack developer specializing in the MERN stack. I enjoy building scalable web applications and solving real-world problems through clean and efficient code. Constantly learning and improving every day.
 
-Here are some ideas to get you started:
+## Skills
+- **Languages & Frameworks:** JavaScript (ES6+), React, Node.js, Express
+- **Databases:** MongoDB, Mongoose
+- **Styling:** Tailwind CSS, CSS3, HTML5
+- **Tools & Technologies:** Git, GitHub, REST APIs, JWT Authentication, Bcrypt
+- **Other:** Responsive Design, API Integration, Deployment
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **Instagram Clone:** A full-stack social media app with user authentication, posts, likes, comments, and followers.
+- **Hotel Booking System:** Complete reservation platform with frontend and backend integration.
+- **Watch Store:** E-commerce site featuring product listings, cart system, and admin dashboard.
+
+## Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/your-github-username)
+
+---
+
+### GitHub Stats
+![Nabin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
