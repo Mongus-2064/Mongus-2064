@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your-github-username/your-repo/main/animated-header.gif" alt="Animated Intro" />
+  <img src="https://user-images.githubusercontent.com/MONGOS-2064/your-repo/main/animated-header.gif" alt="Animated Intro" />
 </p>
 
 <h1 align="center">
@@ -12,7 +12,7 @@
 ---
 
 ## 🚀 About Me
-I'm a passionate full-stack developer specializing in the MERN stack. I build clean, scalable, and efficient web applications. I’m always learning, growing, and turning ideas into reality.
+I'm a  full-stack developer specializing in the MERN stack. I build clean, scalable, and efficient web applications. I’m always learning, growing, and turning ideas into reality.
 
 ---
 
